@@ -122,7 +122,7 @@ function airtel_init_gateway_class()
         /*
 		public function validate_fields() {
 
-            //Ne pas remplir
+            // ---
     
         }
         */
