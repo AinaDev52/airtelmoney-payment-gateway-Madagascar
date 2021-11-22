@@ -35,7 +35,7 @@ function airtel_init_gateway_class()
 
             $this->id = 'airtel'; // ID du plug-in de passerelle de paiement
 	        $this->icon = plugins_url( 'images/logo.png', __FILE__ ); // URL de l'icône qui sera affichée
-	        $this->has_fields = false; // in case you need a custom credit card form
+	        $this->has_fields = false;
 	        $this->method_title = 'Airtel Gateway';
 	        $this->method_description = 'Module de paiement pour Airtel Money';
 
