@@ -106,7 +106,7 @@ function airtel_init_gateway_class()
         }
 
         /*
-		 * CSS et JS personnalisés
+		 * Implementation des fichiers de configurations
 		 */
 	 	public function includes() {
 
